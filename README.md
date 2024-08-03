@@ -33,6 +33,6 @@ It includes almost every feature you know so far if you have used any mailing we
 Look it JavaScript file,to get insights of how it is used.
 ## Running the Website
 To run the website,you should have django installed on your computer.After downloading,strictly in the give order,in the terminal, type:
-     - py manage.py makemigrations mail
-     - py manage.py migrate
-     - py manage.py runserver
+- py manage.py makemigrations mail
+- py manage.py migrate
+- py manage.py runserver
