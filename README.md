@@ -11,6 +11,6 @@ It includes almost every feature you know so far if you have used any mailing we
 - User can "view" mail and also reply to it(Any replied mail will have subject beginning with string "Re:" and body with beginning with "On {date},{user} wrote:").
 - Each mail has time at which the mail was sent,with respect to user's timezone.
 To run the website,you should have django installed on your computer.After downloading,strictly in the give order,in the terminal, type:
-- py manage.py makemigrations mail
-- py manage.py migrate
-- py manage.py runserver
+     - py manage.py makemigrations mail
+     - py manage.py migrate
+     - py manage.py runserver
