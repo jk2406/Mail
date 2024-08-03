@@ -1,5 +1,5 @@
 # Welcome to Mail
-Mail is a website build using Javascript,django framework of python,HTNL abd CSS.
+Mail is a website build using Javascript,django framework of python,HTML abd CSS.
 It includes almost every feature you know so far if you have used any mailing website or app.Those features are listed as follows:
 - Every user's account is secured by a password,of which no other user has access to.
 - If user doesn't have any account,user can create it and login into his/her account.
